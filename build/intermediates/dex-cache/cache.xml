@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\MyChatApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_fa4450eec614c1e91be7b6d65b0dc399ee9d2cbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MyChatApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_3ae57bdfb6ff448aa4b2ebfea523d2ba404832c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MyChatApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_0c55be3d0e7a52e1b69e6ac5456ed3ad1ce03a73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MyChatApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_c51fc7c83f1121bf4f7f914f41e5a348e510d7e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MyChatApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="68c225ddf50a5feb10cebc4300a057029ae71a26">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bc803ebd72d7c24c0bda9a36310eccbbe4d9073d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MyChatApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_08958c7813453cea7f7d3487183c4eb8f67c7305\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_c9cc1c1e516b98db1991d86e4b5c6ecddd1513a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MyChatApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_7aa6b30d53b66b807105608d62e442df2e040243\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MyChatApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_6e91cf52f2c1725ca5c4ee86ed7758cee530b43e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MyChatApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_3f44a4783af2dcd6ddd88c512204ce901d5e13c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MyChatApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6933c00376e6ff3edfc4c9c36916fe5e06721e34">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f33cea9e73e16f6d63078ee51d53bd0b13af3dff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MyChatApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_5e1a6c444f25d889df7241c565642bc937c872d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MyChatApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_cc5ce74a44b441e9802b3cfe04efd716781c811b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MyChatApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_bdf60934ba23000de694f472c7809c5432eb6d6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MyChatApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_d1153ab6c55795398cb9d0b7f166bbd010a8575e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MyChatApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_174183568e763a6eac3ccaaeac8e047dc91f3be4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MyChatApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="G:\MyChatApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_8ac7d73b1efd2704adc261d9684c051c6fd40e9b\classes.dex" />
+    </item>
+
+</items>
